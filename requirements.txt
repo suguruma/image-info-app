@@ -1,0 +1,8 @@
+streamlit
+numpy
+pillow
+matplotlib
+azure-storage-blob
+python-dotenv
+pandas
+plotly
